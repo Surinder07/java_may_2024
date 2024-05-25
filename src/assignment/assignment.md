@@ -1,5 +1,6 @@
 ## Assignment 1 [If-else]
-1. Write a program that takes a student's score as input and prints out their corresponding grade based on the following criteria:
+1. Write a program that takes a student's score as input and prints out their corresponding 
+grade based on the following criteria:
 
 Grade  Score
 A:    90-100

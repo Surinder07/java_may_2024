@@ -34,7 +34,10 @@ true
 
 ## Decision  Making 
 
-// main and press enter
+shortcuts for intelliJ 
+main and press enter
+psvm
+
 System.out.println(); //sout
 
 
