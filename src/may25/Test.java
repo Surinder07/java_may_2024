@@ -8,7 +8,7 @@ public class Test {
         if(x < 10 ) {
             System.out.println("X is less than 10");
         }
-        else if(x == 10 ) {
+        else if(x == 10  || x <= 10  && (x > 10) ) {
             System.out.println("X is equals to 10 ");
         }
         else if(x > 10 ) {
