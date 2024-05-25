@@ -14,9 +14,9 @@ public class Calculator {
         System.out.println("5. Press 5 for Modulus");
         System.out.println("6. Exit");
 
-
         // user to enter these input values
 
+        int input = 10;
         switch (input) {
 
 
