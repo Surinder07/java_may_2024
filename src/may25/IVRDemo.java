@@ -4,63 +4,67 @@ import java.util.Scanner;
 
 public class IVRDemo {
     public static void main(String[] args) {
-        System.out.println("**************************");
-        System.out.println("Welcome to Rogers/Bell");
-        System.out.println("**************************");
 
-        System.out.println("1. Press 1 for english");
-        System.out.println("2. Other lang option");
+        do {
+            System.out.println("**************************");
+            System.out.println("Welcome to Rogers/Bell");
+            System.out.println("**************************");
 
-        System.out.println("Enter the Language ");
+            System.out.println("1. Press 1 for english");
+            System.out.println("2. Other lang option");
 
-        Scanner scanner = new Scanner(System.in);
-        int choice = scanner.nextInt();
+            System.out.println("Enter the Language ");
 
-        if(choice == 1){
+            Scanner scanner = new Scanner(System.in);
+            int choice = scanner.nextInt();
 
-            System.out.println("Enter your choice ");
-            System.out.println("Press 1 Customer Support");
-            System.out.println("Press 2 Billing");
-            System.out.println("Press 3 Escalation");
-            System.out.println("Press 4 xyz");
-            System.out.println("Press 4 Exit");
-            int option = scanner.nextInt();
+            if (choice == 1) {
+
+                System.out.println("Enter your choice ");
+                System.out.println("Press 1 Customer Support");
+                System.out.println("Press 2 Billing");
+                System.out.println("Press 3 Escalation");
+                System.out.println("Press 4 xyz");
+                System.out.println("Press 4 Exit");
+                int option = scanner.nextInt();
 
 
-            switch (option) {
+                switch (option) {
 
-                case 1 :
+                    case 1:
 
-                    if(false){
-                        System.out.println("Welcome to Rogers My name .....");
-                        if(true){
+                        if (false) {
+                            System.out.println("Welcome to Rogers My name .....");
+                            if (true) {
 
+                            }
+                        } else {
+                            System.out.println("No customer support available after 8 PM");
                         }
-                    }
-                    else {
-                        System.out.println("No customer support available after 8 PM");
-                    }
-                    break;
+                        break;
 
-                case 2 :
-                    break;
+                    case 2:
+                        break;
 
-                case 3 :
-                    break;
+                    case 3:
+                        break;
 
-                case 4 :
-                    break;
+                    case 4:
+                        break;
 
-                case 5 :
-                    break;
+                    case 5:
+                        break;
+
+                }
+
+            } else {
+                System.out.println("French");
 
             }
+            //
 
-        }
-        else {
-            System.out.println("French");
-
-        }
+            // do you want to continue ?
+        }while (false);
 
 
 
