@@ -12,6 +12,28 @@ public class ContDmeo {
 }
 
 
+
+//    eq --- all the sides are equal.
+//  side = 10 side = 10 side = 10
+// side = 10 side = 10 side = 4
+// side
+
+
+/*
+  10    10            10     10
+   if(side1 == side2  && side1 == side3)
+   {
+
+   }else if(side)
+
+
+
+
+
+ */
+
+
+
 /*
 
 *
