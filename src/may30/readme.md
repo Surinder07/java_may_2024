@@ -22,6 +22,16 @@ git log -- to check the previous commits.
 
 5. git push 
 
+git pull 
+
+whenever change on remote repo
+before git push, do git pull when you are working with others. 
+sync your remote changes to local first before you push. 
 
 
+
+
+
+
+NOTE : your branch is diverged .....
 
