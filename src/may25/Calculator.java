@@ -1,5 +1,7 @@
 package may25;
 
+import java.util.Scanner;
+
 public class Calculator {
     public static void main(String[] args) {
 
@@ -16,23 +18,33 @@ public class Calculator {
 
         // user to enter these input values
 
-        int input = 10;
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("ENter you rinput ");
+        CalDemo calculator =  new CalDemo();
+
+        int input = scanner.nextInt();
         switch (input) {
 
 
             case 1:
 
-                int x = 10;
-                int y = 20;
-                int sum = x + y;
-                // addition
+                int num1 = scanner.nextInt();
 
+               // calculator.sum(num1);
+                //sum(); // calling a method
+                break;
+
+            case 2 :
+
+                calculator.div();
                 break;
         }
 
-
-
-
     }
 
+
+
+
 }
+
+
