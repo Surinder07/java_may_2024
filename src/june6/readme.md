@@ -32,6 +32,8 @@ Folder        copy
 img.jpg       img.
 
 
+local           remote
+downstream ----> upstream 
 
 
 
