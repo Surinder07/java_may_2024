@@ -34,6 +34,23 @@ img.jpg       img.
 
 local           remote
 downstream ----> upstream 
+## staging 
+
+git branch ====> to check the current branch
+
+git branch staging =====> to create staging branch 
+
+git checkout staging ====> to switch to staging 
+
+git checkout -b staging ====> to create and switch at same time 
+
+
+
+Main  
+|
+Staging 
+|
+Develop
 
 
 
