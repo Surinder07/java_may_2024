@@ -46,18 +46,19 @@ git checkout -b staging ====> to create and switch at same time
 
 
 
-Main  
+Main   [Protected]    --> require permissions
 |
-Staging 
+Staging  [Protected]  ---> directly make a commit to these branches.
 |
 Develop
 
 
-
+Pull request [PR] ---> you request someone[team] to review your changes made before you merge 
+to staging/main branch 
      
 
 
-
+// adding some change ins taging branch
 
 
 
