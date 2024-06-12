@@ -10,10 +10,11 @@ public class Main {
 
     }
 
-    public static void showArray(int[] arr){
+    public static int[] showArray(int[] arr){
         // logic
 
 
+        return arr;
     }
 
 }
