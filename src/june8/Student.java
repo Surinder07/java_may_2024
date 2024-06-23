@@ -14,10 +14,19 @@ public class Student {
              rollNumbers[i] = scanner.nextInt();
         }
 
-        for (int i = 0; i < rollNumbers.length ; i++) {
+      /*  for (int i = 0; i < rollNumbers.length ; i++) {
             System.out.println("Roll Number : "+rollNumbers[i]);
+        }*/
+
+        // for each loop
+
+        for(int x : rollNumbers){
+            System.out.println(x);
         }
 
+
+        scanner.close();
+        
       /*  rollNumbers[0] = 201;
         rollNumbers[1] = 202;
         rollNumbers[2] = 203;
@@ -36,3 +45,4 @@ public class Student {
 }
 
 // create a String array - take input for names and print those names
+//

@@ -18,3 +18,6 @@ instance block {}
 
 collection of similar type of elements/data. 
 Homogenous type of data 
+
+1. single dimension
+2. multi dimension
