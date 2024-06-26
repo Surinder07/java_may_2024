@@ -43,9 +43,34 @@ public static final int x = 10;
 
 
 
+## Java 8 interfaces 
+
+1. Fuctional interface --- only one abstract method 
+2. default methods, static methods 
 
 
-             
+OOPs
+           
+
+
+##   Inner classes 
+
+
+class TestOuter {
+
+   class TestInner {
+
+
+}
+
+}
+
+
+1. Inner class 
+2. Static Inner class 
+3. Anonymous Inner class 
+
+
 
 
 

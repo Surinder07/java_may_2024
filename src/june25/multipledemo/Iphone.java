@@ -53,7 +53,7 @@ public class Iphone extends AppStore implements AssitiveAI, Calculator, Camera, 
 
     @Override
     public void test() {
-        
+
     }
 
 
@@ -61,3 +61,7 @@ public class Iphone extends AppStore implements AssitiveAI, Calculator, Camera, 
     // 1. samsung..
     // Google pixel phone
 }
+
+
+
+
