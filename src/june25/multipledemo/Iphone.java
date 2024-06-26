@@ -51,6 +51,11 @@ public class Iphone extends AppStore implements AssitiveAI, Calculator, Camera, 
         System.out.println("Iphone responds with Hey SIRI...");
     }
 
+    @Override
+    public void test() {
+        
+    }
+
 
     // create two phones...
     // 1. samsung..
