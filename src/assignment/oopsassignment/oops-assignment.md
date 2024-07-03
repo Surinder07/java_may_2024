@@ -99,3 +99,8 @@ Implement classes that represent each notification channel
 that implement the corresponding interfaces.
 Each notification channel class should encapsulate the logic for sending notifications through its respective channel.
 Design the architecture in a way that new notification channels can be added with minimal code modifications.
+
+
+REST API , POSTMAN, SWAGGER , HTTP, CODES 
+EROR 404 
+GET POST PUT    
