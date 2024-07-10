@@ -92,7 +92,40 @@ Arithmetic operators
         
         
                 
-        
+        ==============================
+
+Environment 
+
+Production  : public facing , www.facebook.com <---- 
+Jenkins, github , aws , 
+
+
+ 
+Pre prod / staging ---  www.stag.facebook.com [replica ]
+
+
+Testing/ QA / dev   --- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         
          
 
