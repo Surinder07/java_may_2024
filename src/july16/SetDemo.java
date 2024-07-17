@@ -27,5 +27,19 @@ public class SetDemo {
         System.out.println(set2.tailSet(35));
 
 
+
+        /*
+         Use scanner take input for names
+
+         1. print those names in sorted order, alphabatical sort
+
+
+
+
+
+
+         */
+
+
     }
 }
