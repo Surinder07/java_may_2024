@@ -9,8 +9,6 @@ public class CollectionsDemo {
     public static void main(String[] args) {
 
        // List<Integer> list = List.of(10, 30, 654, 33, 76, 89, 12, 43, 54, 77);
-
-
         List<Integer> list = new ArrayList<>();
         list.add(10);
         list.add(40);
