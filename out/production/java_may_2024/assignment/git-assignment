@@ -1,0 +1,20 @@
+## assignement
+
+
+Make a group of 4 students  in the classroom. Assuming you are developers with team of 4 people. One of you create a new git repository on github and share the link with other team members.
+
+Start add some files.
+developer 1  will add file index.html, index.js, main.css
+developer 2, developer 3, developer 4 will pull that code and start making changes to the files(it could be anything).
+create branches as
+* Main
+* Develop
+* your respective feature branch (feature_yourname)
+
+Task:
+1. Create a pull request to  merge your code to main branch and rest of the team will approve.
+2. Work on the same file and merge into develop branch.
+3. finally create pull request to merge to main/master branch.
+
+feel free to add me to the repository as well (surinder0322@gmail.com)
+
