@@ -26,7 +26,7 @@ public class MapInterfaceDemo {
         Set<Map.Entry<String, Integer>> entrySet = map.entrySet();
 
         Set<String> set = map.keySet();
-        System.out.println("set of keys in the map " + set);
+        System.out.println("set of keys in the map " + sls -lrtet);
         Collection<Integer> values = map.values();
         System.out.println("set of values in the map " + values);
 
